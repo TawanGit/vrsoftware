@@ -1,6 +1,6 @@
 # RabbitMq
 
-O rabbitMq se encontra no docker-compose, basta utilizar docker-compose up -d para rodar localmente.
+O rabbitMq se encontra no docker-compose, basta utilizar `docker-compose up -d` para rodar localmente.
 
 Verifique as credenciais do docker para acessar o rabbitmq
 
